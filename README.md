@@ -31,7 +31,5 @@ Write a Python program that:
 ## Solution
 The program uses a `for` loop to iterate through the numbers 1 to 50, adds each number to a cumulative sum variable, and finally prints the total sum.
 
-## How to Run
-1. Clone the repository or download the Python script.
-2. Run the script using Python 3:
+
   
